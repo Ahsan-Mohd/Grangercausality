@@ -1,5 +1,5 @@
 # Granger Causality
-Granger causality analysis on molecular dynamics simulation Data
+Granger causality analysis on molecular dynamics simulation data
 
 This notebook performs Granger causality analysis on molecular dynamics (MD) simulations to investigate directional relationships between protein structural dynamics and DNA structural features. The analysis is performed across multiple simulation replicas and the results are aggregated to obtain ensemble statistics.
 
